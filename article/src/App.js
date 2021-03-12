@@ -2,7 +2,7 @@ import React, { useState, useEffect} from 'react'
 import Loading from './components/Loading';
 import Error from './components/Error'
 import Articles from './components/Articles';
-import Article from './components/Article';
+import './sass/main.scss'
 
 // medium api - 
 const url = 'https://v1.nocodeapi.com/neverrest/medium/tbUXiyQhVDDssczC';
@@ -44,7 +44,7 @@ function App() {
   }
 
   return (
-    <main>
+    <main className="container">
       <Articles articles={articles} removeArticle={removeArticle} />
     </main>
   );

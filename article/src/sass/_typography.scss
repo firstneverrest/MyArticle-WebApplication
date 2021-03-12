@@ -1,10 +1,11 @@
 
-$font-josefin: 'Josefin Slab', serif;
-$font-roboto: 'Roboto', sans-serif;
-
 body {
-    font-family: $font-josefin;
-    font-weight: 500;
-    font-size: 2.5rem;
-    color: $color-white;
+    font-family: 'Kanit', sans-serif;
+    font-weight: 300;
+    font-size: 1.6rem;
+    color: $color-black;
+
+    h4 {
+        font-size: 2rem;
+    }
 }

@@ -1,0 +1,18 @@
+.Articles {
+    width: 75vw;
+    margin: 0 auto;
+
+    &__container {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        // grid-template-rows: repeat(3, 1fr);
+    }
+
+    &__header {
+
+    }
+
+    &__description {
+
+    }
+}
