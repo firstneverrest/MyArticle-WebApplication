@@ -1,4 +1,5 @@
 # MyArticle-WebApplication
+![image](https://github.com/firstneverrest/MyArticle-WebApplication/blob/master/MyArticle.jpg)
 An web application display all my Medium article using NoCodeAPI to fetch API from Medium.
 ### Technologies
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -23,3 +24,4 @@ An web application display all my Medium article using NoCodeAPI to fetch API fr
 - Use a lot of JS string knowledge such as slice(), indexOf(), string interpolation and split
 - Display articles in cards
 - Using grid and flexbox to style layout of the cards
+- Create loading page
