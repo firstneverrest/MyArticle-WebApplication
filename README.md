@@ -19,7 +19,7 @@ The web application display all my Medium article using NoCodeAPI to fetch API f
 - xml2json-light - extract data inside xml tag to plain text
 
 ### Description
-- This project I would like to fetch data from Medium rss feeds [more info about Medium rss feeds](https://help.medium.com/hc/en-us/articles/214874118-Using-RSS-feeds-of-profiles-publications-and-topics)
+- This project I would like to fetch data from Medium rss feeds. [more info about Medium rss feeds](https://help.medium.com/hc/en-us/articles/214874118-Using-RSS-feeds-of-profiles-publications-and-topics)
 - Use NoCodeAPI to connect medium API without code (same as proxy)
 - Use a lot of JS string knowledge such as slice(), indexOf(), string interpolation and split
 - Display articles in cards
