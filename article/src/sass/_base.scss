@@ -10,11 +10,24 @@ html {
     // this defines what 1rem is
     font-size: 62.5%; 
     scroll-behavior: smooth;
+
+    @media only screen and (max-width: $bp-large) {
+        font-size: 55%;
+    }
+
+    @media only screen and (max-width: $bp-medium) {
+        font-size: 45%;
+    }
+
+    @media only screen and (max-width: $bp-small) {
+        font-size: 40%;
+    }
     
 }
 
 body {
     box-sizing: border-box;
+    background-color: $color-primary;
 }
 
 // scrollbar

@@ -2,6 +2,7 @@ import React, { useState, useEffect} from 'react'
 import Loading from './components/Loading';
 import Error from './components/Error'
 import Articles from './components/Articles';
+import Footer from './components/Footer'
 import './sass/main.scss'
 
 // medium api - 
@@ -46,6 +47,7 @@ function App() {
   return (
     <main className="container">
       <Articles articles={articles} removeArticle={removeArticle} />
+      <Footer />
     </main>
   );
 }

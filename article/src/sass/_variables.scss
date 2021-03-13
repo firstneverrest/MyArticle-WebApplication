@@ -1,14 +1,10 @@
-$color-primary: #56555E; 
+$color-primary: antiquewhite; 
 $color-secondary: #9F9F9F;
 $color-secondary-light: #DBDBDB;
-
-$color-tertiary: #8B77ED;
-$color-tertiary-light: #B2A4F1;
 
 $color-white: #fff;
 $color-black: #08070B;
 
-// font
-$default-font-size: 1.6rem;
-
-$bp-smallest: 25em; // 400px
+$bp-small: 31.25em; // 500px
+$bp-medium: 46.25em; // 740px
+$bp-large: 81.25em; // 1300px
