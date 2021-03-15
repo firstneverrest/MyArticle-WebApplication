@@ -1,6 +1,6 @@
 # MyArticle-WebApplication
 ![image](https://github.com/firstneverrest/MyArticle-WebApplication/blob/master/MyArticle.jpg)
-The web application display all my Medium article using NoCodeAPI to fetch API from Medium.
+The web application displays all my Medium article using NoCodeAPI to fetch API from Medium.
 ### Technologies
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -15,6 +15,7 @@ The web application display all my Medium article using NoCodeAPI to fetch API f
 - asyn/await
 
 ### Dependency
+- gh-pages - deploy to GitHub page in gh-pages branch
 - node-sass - use Sass in React
 - xml2json-light - extract data inside xml tag to plain text
 
